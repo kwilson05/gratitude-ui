@@ -1,2 +1,2 @@
 # gratitude-ui
-Gratitude UI: React Library with an accessibility first mindset
+Gratitude UI: React component library with an accessibility first mindset
